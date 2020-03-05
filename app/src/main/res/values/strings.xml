@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Agricom</string>
+    <string name="find_disease">Find disease</string>
+    <string name="show_video">Show Video</string>
+    <string name="clear_app_data">Clear app data</string>
+    <string name="todo">TODO</string>
+    <string name="low">Low</string>
+    <string name="high">High</string>
+    <string name="medium">Medium</string>
+    <string name="control_level_of_spray">Control Level of Spray</string>
+    <string name="lights_off_on">Lights off / on</string>
+    <string name="speaker_off_on">Speaker off / on</string>
+    <string name="controller">Controller</string>
+    <string name="take_photos_from_drone">Take Photos from drone</string>
+    <string name="agricom">AgriCom</string>
+    <string name="auto">Auto</string>
+    <string name="pump_on_off">Pump On/Off</string>
+    <string name="off">Off</string>
+</resources>
